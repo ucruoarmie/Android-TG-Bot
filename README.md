@@ -1,5 +1,5 @@
-# Awesome Telegram Bot
-Issues, Pull Requests are **always welcome**
+#ROBOT_TG_BOT
+مسائل، درخواست های کشیدن ** همیشه خوش آمدید **
 
 
 ## Features
